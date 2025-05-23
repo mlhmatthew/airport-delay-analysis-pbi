@@ -24,7 +24,7 @@ The interactive Power BI dashboard visualizes trends across multiple dimensions,
 
 ## Data Source
 
-- [Airline Delays and Cancellations Dataset (Kaggle, 2018)]([https://www.kaggle.com/](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?resource=download))
+- [Airline Delays and Cancellations Dataset (Kaggle, 2018)](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?resource=download)
 - External airport data from [OpenFlights](https://openflights.org/data.html)
 - Weather insights from NCAR and BTS reports
 
