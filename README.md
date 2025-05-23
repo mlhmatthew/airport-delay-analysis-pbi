@@ -24,13 +24,12 @@ The interactive Power BI dashboard visualizes trends across multiple dimensions,
 
 ## Data Source
 
-- [Airline Delays and Cancellations Dataset (Kaggle, 2018)](https://www.kaggle.com/)
+- [Airline Delays and Cancellations Dataset (Kaggle, 2018)]([https://www.kaggle.com/](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?resource=download))
 - External airport data from [OpenFlights](https://openflights.org/data.html)
 - Weather insights from NCAR and BTS reports
 
 ## Files Included
 
-- `dataset/airline_delay_2018.xlsx`: Cleaned 2018 airline delay dataset
 - `report/airport_delay_analysis_report.pdf`: Technical report including dashboard screenshots and methodology
 - `dashboard/airport_delay_dashboard.pbix`: *(File too large to host directly on GitHub)*
 
