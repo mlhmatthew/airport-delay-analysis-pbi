@@ -32,7 +32,7 @@ The interactive Power BI dashboard visualizes trends across multiple dimensions,
 
 - `dataset/airline_delay_2018.xlsx`: Cleaned 2018 airline delay dataset
 - `report/airport_delay_analysis_report.pdf`: Technical report including dashboard screenshots and methodology
-- `dashboard/airport_delay_dashboard.pbix`: Power BI dashboard file *(to be uploaded separately due to size)*
+- `dashboard/airport_delay_dashboard.pbix`: Power BI dashboard file 
 
 ## Key Insights
 
