@@ -33,6 +33,12 @@ The interactive Power BI dashboard visualizes trends across multiple dimensions,
 - `report/airport_delay_analysis_report.pdf`: Technical report including dashboard screenshots and methodology
 - `dashboard/airport_delay_dashboard.pbix`: *(File too large to host directly on GitHub)*
 
+### Dashboard Previews
+
+[Airport Level Overview](assets/airport_level_view.png)
+[Flight Level Overview](assets/flight_level_view.png)
+[Flight Delayed and Cancelled Overview ](assets/delay_and_cancelled_flight_view.png)
+
 ### Dashboard Download
 
 Due to GitHub’s file size limitations, the Power BI dashboard is hosted externally:
