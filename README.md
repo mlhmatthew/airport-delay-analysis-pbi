@@ -35,9 +35,9 @@ The interactive Power BI dashboard visualizes trends across multiple dimensions,
 
 ### Dashboard Previews
 
-[Airport Level Overview](assets/airport_level_view.png)
-[Flight Level Overview](assets/flight_level_view.png)
-[Flight Delayed and Cancelled Overview ](assets/delay_and_cancelled_flight_view.png)
+- [Airport Level Overview](assets/airport_level_view.png)
+- [Flight Level Overview](assets/flight_level_view.png)
+- [Flight Delayed and Cancelled Overview ](assets/delay_and_cancelled_flight_view.png)
 
 ### Dashboard Download
 
