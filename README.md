@@ -49,16 +49,33 @@ Due to GitHub’s file size limitations, the Power BI dashboard is hosted extern
 
 ## Key Insights
 
-- **Ground processing times and delays** peaked during **June–August** and **November–January**, aligning with summer vacations and winter holidays.
-- **Customer satisfaction** declined in peak months, especially at **SFO**.
-- **Weather events** like thunderstorms and snowstorms played a key role in flight delays.
+- **Seasonal Congestion & Delay Trends:**
+  - Ground processing times and delays spiked during **June–August** and **November–January**.
+  - These periods correspond to summer vacations and winter holidays — peak travel seasons.
+  - Ground processing times increased by approximately **30%**, and arrival/departure delays rose by **45–60%** compared to other months.
 
-## Authors
+- **Customer Satisfaction Analysis:**
+  - A derived `CustomerSatisfaction` metric showed:
+    - **35%** of flights resulted in satisfied passengers,
+    - **46%** neutral,
+    - and **19%** dissatisfied.
+  - Dissatisfaction peaked in **August**, particularly at **San Francisco International Airport (SFO)**, correlating with the highest monthly flight volume.
+  - **JetBlue at SFO** had the highest monthly dissatisfaction rate of **38%** in **March**.
 
-James Benjamin Cole, Long Ho Mak, Mary Grace Lunar, Sirjan Bhalla  
-Course: CST2102_010  
-Instructor: Yasser Jafer  
-Submission Date: March 7, 2025
+- **Airline and Airport Performance:**
+  - Airline-specific trends revealed performance variability:
+    - Some airlines consistently maintained lower delay rates.
+    - Others contributed disproportionately to dissatisfaction spikes in specific months and locations.
+
+- **Weather-Linked Delays:**
+  - Late summer delays were strongly associated with thunderstorms and hurricanes (especially in Southeast and Midwest regions).
+  - Winter delays (November–January) were tied to snowstorms, runway closures, and de-icing, particularly in airports like **Denver, New York, and Chicago**.
+  - Based on BTS data, winter conditions accounted for **40%** of flight cancellations.
+
+- **Operational Bottlenecks:**
+  - Metrics such as `Average Ground Processing Time` and `Taxi In/Out` showed the highest strain during holiday peaks, indicating resource and runway constraints.
+  - Airports with the **highest average delays** include **SFO**, **ORD**, and **ATL**, while others showed more consistent performance.
+
 
 ## License
 
